@@ -1,0 +1,47 @@
+{
+  "time": "2026-07-04T22:13:23.197847",
+  "profiles": [
+    {
+      "name": "nox",
+      "online": true
+    },
+    {
+      "name": "violet",
+      "online": true
+    },
+    {
+      "name": "abyss",
+      "online": true
+    },
+    {
+      "name": "sandbox",
+      "online": true
+    },
+    {
+      "name": "lina",
+      "online": true
+    },
+    {
+      "name": "default",
+      "online": false
+    }
+  ],
+  "daily_usage": {
+    "2026-07-04": []
+  },
+  "credits": {
+    "5h_cost": 0.01,
+    "5h_limit": 12.0,
+    "5h_pct": 0.1,
+    "weekly_cost": 0.05,
+    "weekly_limit": 30.0,
+    "weekly_pct": 0.2,
+    "monthly_cost": 0.2,
+    "monthly_limit": 60.0,
+    "monthly_pct": 0.3,
+    "source": "estimated"
+  },
+  "codex": {
+    "plan": "Plus"
+  }
+}
