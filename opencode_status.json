@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-04T23:57:56.552539",
+  "time": "2026-07-05T02:28:40.945042",
   "profiles": [
     {
       "name": "nox",
@@ -27,12 +27,12 @@
     }
   ],
   "daily_usage": {
-    "2026-07-04": [
+    "2026-07-05": [
       {
         "model": "deepseek-v4-flash",
-        "calls": 33222,
-        "in_tokens": 53155952,
-        "out_tokens": 13288989
+        "calls": 35129,
+        "in_tokens": 56206877,
+        "out_tokens": 14051720
       }
     ]
   },
@@ -40,15 +40,15 @@
     "5h_cost": 0.3,
     "5h_limit": 12.0,
     "5h_pct": 2.5,
-    "5h_remain_sec": 3724,
-    "weekly_cost": 9.99,
+    "5h_remain_sec": 9080,
+    "weekly_cost": 10.07,
     "weekly_limit": 30.0,
-    "weekly_pct": 33.3,
-    "weekly_remain_sec": 86524,
-    "monthly_cost": 42.83,
+    "weekly_pct": 33.6,
+    "weekly_remain_sec": 77480,
+    "monthly_cost": 43.14,
     "monthly_limit": 60.0,
-    "monthly_pct": 71.4,
-    "monthly_remain_sec": 2332924
+    "monthly_pct": 71.9,
+    "monthly_remain_sec": 2323880
   },
   "codex": {
     "plan": "Plus",
